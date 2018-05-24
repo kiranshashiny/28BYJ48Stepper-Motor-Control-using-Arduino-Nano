@@ -50,5 +50,9 @@ Yellow goes to O/P3
 Pink goes to O/P2
 Orange goes to O/P4
 
+![img_20180524_181903](https://user-images.githubusercontent.com/14288989/40486160-1f743812-5f7e-11e8-87f3-10f6029b604a.jpg)
+
+Wiring Diagram
+
 ![screen shot 2018-05-24 at 6 05 43 pm](https://user-images.githubusercontent.com/14288989/40485871-4d4e5584-5f7d-11e8-944d-ab4132a07cd3.png)
 
